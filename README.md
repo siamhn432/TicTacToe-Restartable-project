@@ -1,2 +1,29 @@
-# TicTacToe-Restartable-project
-A simple yet interactive Python-based Tic-Tac-Toe game for two players, featuring board printing, win-check logic, and a built-in restart mechanism. Great for beginners to learn basic control flow, functions, and game logic.
+# 🎮 TicTacToe-Restartable-project
+
+A simple and interactive **Tic-Tac-Toe** game built with Python. This console-based two-player game features real-time board updates, automatic win/draw detection, and the ability to restart after a match. Perfect for beginners exploring the basics of Python programming.
+
+---
+
+## ✨ Features
+
+- Two-player (X and O) turn-based gameplay
+- Visual board display in the terminal
+- Win and draw detection logic
+- Move validation to prevent overwriting
+- Option to restart the game after it ends
+- Beginner-friendly structure and comments
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x installed on your machine
+
+### Running the Game
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/TicTacToe-Restartable-project.git
+   cd TicTacToe-Restartable-project
+
