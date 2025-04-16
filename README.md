@@ -24,6 +24,6 @@ A simple and interactive **Tic-Tac-Toe** game built with Python. This console-ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/TicTacToe-Restartable-project.git
+   git clone https://github.com/siamhn432/TicTacToe-Restartable-project.git
    cd TicTacToe-Restartable-project
 
