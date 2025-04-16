@@ -41,3 +41,14 @@ The game ends when someone wins or the board is full
 
 After the result, you’ll be asked whether you want to play again
 
+🧠 Concepts Covered
+Loops and conditionals
+
+Function-based programming
+
+List manipulation
+
+User input handling
+
+Basic game logic (no computer opponent, player-vs-player only)
+
