@@ -27,3 +27,17 @@ A simple and interactive **Tic-Tac-Toe** game built with Python. This console-ba
    git clone https://github.com/siamhn432/TicTacToe-Restartable-project.git
    cd TicTacToe-Restartable-project
 
+🎯 How to Play
+The board is numbered 0 to 8 like this:
+ 0 | 1 | 2
+---+---+---
+ 3 | 4 | 5
+---+---+---
+ 6 | 7 | 8
+
+Players take turns entering a number to place their mark (X or O)
+
+The game ends when someone wins or the board is full
+
+After the result, you’ll be asked whether you want to play again
+
